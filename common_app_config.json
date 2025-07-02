@@ -1,0 +1,5 @@
+{
+  "database": "kfone",
+  "host": "kfone-dev-use1-shared-psql-001.cnosksgsira5.us-east-1.rds.amazonaws.com",
+  "port": "5432"
+}
