@@ -1,0 +1,20 @@
+{
+  "AuditS3Bucket": "kfone-dev-use1-kfnraudit-s3-001",
+  "S3bucketname": "kfone-dev-use1-kfnr-hub-s3-001",
+  "adhocSearchKey": "kfone_kfnrhub_adhocsearch_create_key",
+  "adhocSearchQueue": "kfone_kfnrhub_adhocsearch_create_queue",
+  "candidateDataCreateKey": "kfone_kfnrhub_candidatedata_create_key",
+  "candidateDataCreateQueue": "kfone_kfnrhub_candidatedata_create_queue",
+  "candidateProfileActionKey": "kfone_kfnrhub_candidateprofileaction_create_key",
+  "candidateProfileActionQueue": "kfone_kfnrhub_candidateprofileaction_create_queue",
+  "candidateStatusChangeKey": "kfone_kfnrhub_candidatestatuschange_create_key",
+  "candidateStatusChangeQueue": "kfone_kfnrhub_candidatestatuschange_create_queue",
+  "database": "kfnrhub",
+  "editCandidateProfileKey": "kfone_kfnrhub_edit_candidateprofile_details_key",
+  "editCandidateProfileQueue": "kfone_kfnrhub_edit_candidateprofile_details_queue",
+  "exchange_Name": "kfone.kfnrhub.exchange.topic",
+  "profileViewKey": "kfone_kfnrhub_profileview_create_key",
+  "profileViewQueue": "kfone_kfnrhub_profileview_create_queue",
+  "sendEmailQueue": "kfone_kfnrhub_email_queue",
+  "sendEmailRoutingKey": "kfone_kfnrhub_email_key"
+}
