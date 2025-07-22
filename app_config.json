@@ -22,7 +22,7 @@
   "KFNR_CENSORED_COUNTRIES_ISO_2": "ru,cu,ir,kp,sy,cn",
   "KFNR_CENSORED_COUNTRIES_ISO_3": "RUS,CUB,IRN,PRK,SYR,CHN",
   "KFNR_CENSORED_MAIL_EXT": "ru,cu,ir,kp,sy,cn,RU,CU,IR,KP,SY,CN",
-  "KFNR_Credentials": "/system/platform/postgres/shared/kfnrhub-pwd",
+  "KFNR_Credentials": "/system/platform/postgres/shared/kfnr-pwd",
   "KFNR_OPTIN_APPLICABLE_COUNTRIES": "Argentina,Chile,Colombia,Ecuador,Malaysia,Peru,Republic of Korea,South Korea,Taiwan,Taiwan (Province of China),Vietnam,British Virgin Islands,Nigeria,Panama,Paraguay,Uganda,ARG,CHL,COL,ECU,MYS,PER,KOR,ROK,VGB,NGA,PAN,PRY,UGA",
   "KFNR_Service_API_URL": "https://kfnr-api.int.bhqa.kfddev.com/",
   "KFNR_UKRAINE_CITIES": "Autonomous Republic of Crimea,Kherson Oblast,Khersonska miska hromada,Zaporizhia Oblast,Luhansk Oblast,Luhanska miska hromada,Luhanska miska hromada (Luhansk),Donetsk,Donetsk Oblast,Sumy Oblast,Kirovohrad Oblast,Mykolaiv Oblast,Kharkiv Oblast,Poltava Oblast,Dnipropetrovsk Oblast",
