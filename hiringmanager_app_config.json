@@ -1,3 +1,4 @@
 {
-  "KFNR_Service_API_URL": "https://kfnr-api.int.bhqa.kfddev.com"
+  "KFNR_Service_API_URL": "https://kfnr-api.apps.app01.dev-use1.int-kfone.com"
+
 }
