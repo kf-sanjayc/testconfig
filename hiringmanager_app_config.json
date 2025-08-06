@@ -1,4 +1,8 @@
 {
-  "KFNR_Service_API_URL": "https://kfnr-api.apps.app01.dev-use1.int-kfone.com"
+  "KFNR_Service_API_URL": "https://kfnr-api.apps.app01.dev-use1.int-kfone.com",
+  "bot_login_url": "https://kf-ic2b-dv-ee.azureedge.net/",
+  "teams_app_id":"332e144a-351b-11ee-be56-0242ac120002",
+  "botSecretName": "/apps/hiring-manager/bot-app-registration"
+
 
 }
