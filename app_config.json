@@ -79,7 +79,7 @@
   "kfnrBNFKey": "kfone_kfnr_bnf_key",
   "kfnrBNFQueue": "kfone_kfnr_bnf_queue",
   "kfnr_db": "kfnr",
-  "nb_group_id": "d806a6e1-cc0b-4187-87bf-ff4bf78985bf",
+  "nb_group_id": "753b4859-64c3-4c54-b29e-a760d7887f53",
   "profileViewKey": "kfone_kfnr_profileview_create_key",
   "profileViewQueue": "kfone_kfnr_profileview_create_queue",
   "ra_db": "ra",
@@ -92,3 +92,4 @@
   "talentPoolCandidateKey": "kfone_kfnr_talent_pool_candidate_key",
   "talentPoolCandidateQueue": "kfone_kfnr_talent_pool_candidate_queue"
 }
+
