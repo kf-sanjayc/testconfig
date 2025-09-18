@@ -5,7 +5,7 @@
   "CONSENT_API_BASE_URL": "https://api.kornferrytalent-dev.com/kfnr-consent",
   "Client_ATS_URL": "https://foresightstage.futurestep.com",
   "ConsentEncryptionKey": "4ajxhw26uo",
-  "DS_BASE_URL": "https://spmapping-api.int.bhdev.kfddev.com",
+  "DS_BASE_URL": "https://ds-kfnr-candidate-search-hub.apps.app01.dev-use1.int-kfone.com/v1/",
   "Elastic_CandidateSearchUrl": "https://ds-kfnr-candidate-search-hub.apps.app01.dev-use1.int-kfone.com/v1/",
   "ElasticsearchSecret": "/system/infra/elastic-cloud/elasticsearch/kfnr-admin-apikey",
   "HUB_BASE_URL": "https://kfdevproductsapi.kornferrytalent-dev.com",
@@ -92,4 +92,5 @@
   "talentPoolCandidateKey": "kfone_kfnr_talent_pool_candidate_key",
   "talentPoolCandidateQueue": "kfone_kfnr_talent_pool_candidate_queue"
 }
+
 
