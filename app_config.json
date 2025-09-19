@@ -90,7 +90,9 @@
   "smtp_host": "smtp-mail.outlook.com",
   "smtp_port": "587",
   "talentPoolCandidateKey": "kfone_kfnr_talent_pool_candidate_key",
-  "talentPoolCandidateQueue": "kfone_kfnr_talent_pool_candidate_queue"
+  "talentPoolCandidateQueue": "kfone_kfnr_talent_pool_candidate_queue",
+  "core_base_url": "https://core-api.apps.app01.dev-use1.int-kfone.com"
 }
+
 
 
