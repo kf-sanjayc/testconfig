@@ -50,7 +50,7 @@
   "RADbSecretName": "/system/platform/postgres/shared/ra-pwd",
   "RX_API_DOMAIN": "https://api.kornferrytalent-dev.com",
   "ResumeUpload": "kfnr/resumeUpload",
-  "RpoUserEndpoint": "https://iam-api.apps.app01.dev-use1.int-kfone.com/v2/userGroups/{groupId}/members",
+  "RpoUserEndpoint": "https://iam-api.apps.app01.dev-use1.int-kfone.com/v2/users/roles/members",
   "SP_BASE_URL": "https://sp-api.int.bhdev.kfddev.com",
   "Service_API_Domain": "https://kfnr-api.apps.app01.dev-use1.int-kfone.com",
   "SmtpSecretName": "/apps/kfnr/smtp",
@@ -94,6 +94,7 @@
   "core_base_url": "https://core-api.apps.app01.dev-use1.int-kfone.com",
   "Internal_Domain" :"kfdbhdevoutlook.onmicrosoft.com"
 }
+
 
 
 
