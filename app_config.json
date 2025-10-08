@@ -92,8 +92,11 @@
   "talentPoolCandidateKey": "kfone_kfnr_talent_pool_candidate_key",
   "talentPoolCandidateQueue": "kfone_kfnr_talent_pool_candidate_queue",
   "core_base_url": "https://core-api.apps.app01.dev-use1.int-kfone.com",
-  "Internal_Domain" :"kfdbhdevoutlook.onmicrosoft.com"
+  "Internal_Domain" :"kfdbhdevoutlook.onmicrosoft.com",
+  "adaptiveCardKey": "kfone_kfnr_adaptive_card_key",
+  "adaptiveCardQueue": "kfone_kfnr_adaptive_card_queue"
 }
+
 
 
 
