@@ -95,8 +95,10 @@
   "Internal_Domain" :"kfdbhdevoutlook.onmicrosoft.com",
   "adaptiveCardKey": "kfone_kfnr_adaptive_card_key",
   "adaptiveCardQueue": "kfone_kfnr_adaptive_card_queue",
-  "TalentPoolCandidateLimit": "5"
+  "TalentPoolCandidateLimit": "5",
+  "recruiter_groups": "Client%20Recruiter%2CRecruiter"
 }
+
 
 
 
