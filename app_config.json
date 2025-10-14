@@ -96,8 +96,9 @@
   "adaptiveCardKey": "kfone_kfnr_adaptive_card_key",
   "adaptiveCardQueue": "kfone_kfnr_adaptive_card_queue",
   "TalentPoolCandidateLimit": "5",
-  "recruiter_groups": "Client%20Recruiter%2CRecruiter%2External%20Recruiter"
+  "recruiter_groups": "Client%20Recruiter%2CRecruiter%2CExternal%20Recruiter"
 }
+
 
 
 
