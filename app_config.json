@@ -96,8 +96,12 @@
   "adaptiveCardKey": "kfone_kfnr_adaptive_card_key",
   "adaptiveCardQueue": "kfone_kfnr_adaptive_card_queue",
   "TalentPoolCandidateLimit": "5",
-  "recruiter_groups": "external_recruiter,nb_recruiter"
+  "recruiter_groups": "external_recruiter,nb_recruiter",
+  "PDLCandidateIndex": "pdl_candidates_v4",
+  "PDLJobsIndex": "pdl_job_data",
+  "ElasticPdlSearchSecretName" : "/system/infra/elastic-cloud/elasticsearch/kfnr-pdl-admin-apikey1"
 }
+
 
 
 
